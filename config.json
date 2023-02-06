@@ -1,0 +1,12 @@
+{
+  "prefix": "ip",
+  "token": "MTA1Njc5MTk5OTA0MDE5MjU1NA.GEO-Ch.ev8W-FgE6g4_ampeDXyTLEPsJ60QfBYSmhWXBU",
+  "owners": ["979659796334641152"],
+  "footer": "iBOY Networks • NSFW Unit",
+
+  "msg": {
+    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "loading": "Please wait...",
+    "imageNotLoading": "Image not loading ? Click Here"
+  }
+}
